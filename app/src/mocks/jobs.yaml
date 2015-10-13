@@ -1,0 +1,52 @@
+
+-
+  id: 1
+  title: Software Engineering Intern
+  poster:
+    id: 1
+    name: Evan Sebastian
+    email: evanlhoini@gmail.com
+  date: 2015-12-18
+  short_description: C++ Developers Wanted. 10 Years experience minimal.
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  followed: false
+
+-
+  id: 2
+  title: Accounting Intern
+  poster:
+    id: 1
+    name: Sharon Lynn
+    email: vsharonlynn@gmail.com
+  date: 2015-12-19
+  short_description: Accounting Intern wanted. B.A only. Fresh grad welcome.
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  followed: false
+
+-
+  id: 3
+  title: Senior Project Manager
+  poster:
+    id: 2
+    name: Sharon Lynn
+    email: vsharonlynn@gmail.com
+  date: 2015-12-20
+  short_description: Experienced Project Manager to manage cool project. Minimum 10 years experience
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  followed: false
+
+-
+  id: 4
+  title: Senior Cleaning Manager
+  poster:
+    id: 3
+    name: John Doe
+    email: fuubar@gmail.com
+  date: 2015-12-21
+  short_description: Clean toilets and rooms. Bachelor Deegre or equivalent needed.
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+  followed: false
